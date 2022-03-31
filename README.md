@@ -11,9 +11,9 @@ Run the following commands in the terminal, after changing to the directory wher
 Steps to run the program once downloaded:
 
 1. **node/nodemon server.js** ("**Server is running on port 3000.**" shall be console.log'd in the terminal)
-2. Go to browser: type in **localhost:3000/** to get to the **Addition Calculator**:
-    i. Enter the **first number**
-   ii. Enter the **second number**
+2. Go to browser: type in **localhost:3000/** to get to the **Addition Calculator**:<br>
+    i. Enter the **first number**<br>
+   ii. Enter the **second number**<br>
   iii. Server returns the result after performing the addition
 3. Go to browser: type in **localhost:3000/bmicalculator** to get to the **BMI Calculator**:
     i. Enter **weight**
