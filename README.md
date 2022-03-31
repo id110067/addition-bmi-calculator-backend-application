@@ -2,7 +2,7 @@
 
 Built using **HTML**, **JavaScript**; JavaScript framework used: **node.js**; node.js framework used: **express.js**
 
-Run the following commands in the terminal, after changing to the directory where the files of the program are saved, and before starting the server (to include the necessary **node-modules**) as well as the **package.json** file (which would include info reagrding the server application):
+Run the following commands in the terminal, after changing to the directory where the files (**bmiCalculator.html**, **index.html**, **server.js** **only**) of the program are saved, and before starting the server (to include the necessary **node-modules**) as well as the **package.json** file (which would include info regarding the server application):
 
 1. **npm init**
 2. **npm install express**
