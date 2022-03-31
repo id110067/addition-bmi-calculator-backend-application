@@ -15,7 +15,7 @@ Steps to run the program once downloaded:
     i. Enter the **first number**<br>
    ii. Enter the **second number**<br>
   iii. Server returns the result after performing the addition
-3. Go to browser: type in **localhost:3000/bmicalculator** to get to the **BMI Calculator**:
-    i. Enter **weight**
-   ii. Enter **height**
+3. Go to browser: type in **localhost:3000/bmicalculator** to get to the **BMI Calculator**:<br>
+    i. Enter **weight**<br>
+   ii. Enter **height**<br>
   iii. Server returns the result after performing the calculations.
